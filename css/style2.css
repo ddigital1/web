@@ -7,7 +7,7 @@
   margin: 0;
   padding: 0;
   box-sizing:border-box;
-  border-radius: 10px;
+  /*border-radius: 10px;*/
 }
 body{
   font-family: "Poppins", sans-serif;
@@ -100,7 +100,7 @@ color: #B1B1B1;
 }
 
 a:hover, a:focus, a:active, a.active {
-	color: #09F;
+	color: #F03;
 }
 a, a:hover, a:focus, a:active, a.active {
 	outline: 0;
@@ -849,7 +849,7 @@ font-size: 11px;
 
 .btn-xl {
 	color: #FFF;
-	background-color: #F33;
+	background-color: #0CF;
 	font-family: "Open Sans",sans-serif;
 	text-transform: uppercase;
 	font-weight: 800;
